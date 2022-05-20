@@ -1,3 +1,3 @@
-git clone "https://github.com/EverythingSuckz/TG-FileStreamBot" tgfs
+git clone "https://github.com/showflix/speed" tgfs
 cd tgfs
 python -m WebStreamer
