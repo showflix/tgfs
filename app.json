@@ -11,7 +11,7 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/showflix/speed",
+  "repository": "https://github.com/showflix/file-to-link-bot",
   "success_url": "/",
   "website": "stream.wrench.gq",
   "env": {
